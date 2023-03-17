@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+}
+
+p {
+    display: block;
+    margin-block-start: 0px;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.cs{
+    display: flex;
+    justify-content: space-between
+}
+
+p.welText{
+    padding: 68px 50px 20px;
+    font-family: monospace;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
